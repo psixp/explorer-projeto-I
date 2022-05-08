@@ -15,6 +15,10 @@ body {
     margin: 0;
 }
 
+img {
+    max-width: 100%;
+}
+
 #hero {
     width: 592px;
     margin: 0 auto 72px ;
